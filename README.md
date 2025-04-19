@@ -15,8 +15,8 @@ A FastAPI-based microservice that accepts user input, sends it to GPT-4o via Ope
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/openrouter-gpt-microservice.git
-cd openrouter-gpt-microservice
+git clone https://github.com/savhascelik/sample-task-fastapi.git
+cd sample-task-fastapi
 ```
 
 2. Install the required dependencies:
